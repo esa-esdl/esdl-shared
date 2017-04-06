@@ -1,4 +1,4 @@
-Welcome to shared directory of ESDC Jupyterhub Platform!
+# Welcome to shared directory of ESDC Jupyterhub Platform!
 
 In this directory you will find some sample Jupyter Notebooks to give you an idea on what can be done with our datacube.
 Please note that this a totally read-only directory because it is strictly a place to share demonstration Notebooks, not some experimental ones.
